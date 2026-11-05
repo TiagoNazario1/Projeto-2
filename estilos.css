@@ -1,0 +1,12 @@
+p {color: white;
+font-family: Times New Roman;}
+.destaque{ background-color: gray;
+margin: 30px auto;
+padding: 15px;     
+max-width: 500px;}
+body {background-color: black;}
+h1 { color: white;
+font-family: Arial;}
+ul {color: white;}
+li {color: white}
+
